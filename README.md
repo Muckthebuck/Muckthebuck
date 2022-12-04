@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukul Chodhary
 - 👀 I’m interested in intersection between cs, electrical, and medtech. 
-- 🌱 I’m currently studying Masters of Electrical Engineering specialising in Autonomous systems
+- 🌱 I’m currently studying Masters of Electrical Engineering specialising in Autonomous systems. 
 - 📫 How to reach me: email:-mchodhary@student.unimelb.edu.au
 
 <!---

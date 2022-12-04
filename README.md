@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Muckthebuck
-- 👀 I’m interested in elec eng and computer science
-- 🌱 I’m currently studying Bachelor of Science (electrical systems) and Diploma in Computing at Unimelb
-- 💞️ I’m looking to collaborate on anything.
+- 👋 Hi, I’m Mukul Chodhary
+- 👀 I’m interested in intersection between cs, electrical, and medtech. 
+- 🌱 I’m currently studying Masters of Electrical Engineering specialising in Autonomous systems
 - 📫 How to reach me: email:-mchodhary@student.unimelb.edu.au
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukul Chodhary. 
 - 🌱 Masters of Electrical Engineering specialising in Autonomous systems (perception and control)
 - 🏢 Currently at Microsoft 
-- 📫 Connect with me: [www.linkedin.in](https://au.linkedin.com/in/mukulchodhary)
+- 📫 Connect with me: [Linkedin](https://au.linkedin.com/in/mukulchodhary)
 
 Interests: Computer Vision, Graphics, SLAM, Cooperative Agents, MARL, Stochastic Optimisation, System identification, DSP
 
